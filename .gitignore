@@ -1,0 +1,28 @@
+# Arduino build files
+*.ino.bin
+*.ino.bootloader.bin
+*.ino.partitions.bin
+*.elf
+*.map
+
+# Arduino cache
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# ESP32 data uploads
+data/
+
+# Compiled binaries
+*.exe
+*.out
