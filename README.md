@@ -68,7 +68,7 @@ http://192.168.4.1
 
 Optional:
 - OLED Display
-- LCD Display
+- LCD Display 
 - Buzzer
 - LEDs
 
